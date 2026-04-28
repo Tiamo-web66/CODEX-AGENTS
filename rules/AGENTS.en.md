@@ -1,16 +1,4 @@
-# Karpathy-Style Codex Rules
-
-Source references:
-
-- https://github.com/forrestchang/andrej-karpathy-skills
-- The original project says its guidance is derived from Andrej Karpathy's observations about common LLM coding failures.
-- The original project is published under the MIT license; this file is a Codex-oriented adaptation.
-
-Purpose:
-
-- Use these rules as default behavior constraints when Codex writes, edits, refactors, or reviews code.
-- You can paste this file into a project-level `AGENTS.md`, or reference it as a standalone team rule.
-- These rules bias toward caution and verification. Obvious one-line fixes do not need the full process, but they still need disciplined scope control.
+# Codex Coding Rules
 
 ## 1. Understand Before Coding
 

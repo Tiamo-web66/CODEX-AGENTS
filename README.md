@@ -33,8 +33,8 @@
 
 ## 已收录规则
 
-- `rules/karpathy-codex.zh.md`：Karpathy 风格 Codex 规则中文版本。
-- `rules/karpathy-codex.en.md`：Karpathy-style Codex rules in English.
+- `rules/AGENTS.zh.md`：Codex 编码规则中文版本。
+- `rules/AGENTS.en.md`：Codex coding rules in English.
 
 ## 初始化状态
 

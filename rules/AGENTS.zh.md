@@ -1,16 +1,4 @@
-# Karpathy 风格 Codex 规则
-
-来源参考：
-
-- https://github.com/forrestchang/andrej-karpathy-skills
-- 原项目说明其内容源自 Andrej Karpathy 对 LLM 编码常见问题的观察。
-- 原项目以 MIT 许可发布；本文件为面向 Codex 的改写版本。
-
-用途：
-
-- 适用于 Codex 编写、修改、重构、审查代码时的默认行为约束。
-- 可整段复制到项目根目录的 `AGENTS.md`，也可作为团队规则单独引用。
-- 这些规则偏向谨慎和可验证性。简单的一行修复不必套完整流程，但仍要保持变更克制。
+# Codex 编码规则
 
 ## 1. 编码前先弄清问题
 
