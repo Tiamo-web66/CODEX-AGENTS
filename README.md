@@ -16,6 +16,7 @@
 ├── README.md          # 仓库说明
 ├── docs/              # 设计、流程、规范、排障文档
 ├── prompts/           # 可复用提示词
+├── rules/             # 可合并到 AGENTS.md 的规则集
 ├── scripts/           # 辅助脚本
 └── templates/         # 项目或文档模板
 ```
@@ -27,7 +28,13 @@
 1. 将稳定规则写入 `AGENTS.md`。
 2. 将一次性讨论或较长说明放入 `docs/`。
 3. 将可复制复用的提示词放入 `prompts/`。
-4. 将可执行自动化逻辑放入 `scripts/`，并在脚本头部写明用途和运行方式。
+4. 将可组合的 Codex 规则放入 `rules/`。
+5. 将可执行自动化逻辑放入 `scripts/`，并在脚本头部写明用途和运行方式。
+
+## 已收录规则
+
+- `rules/karpathy-codex.zh.md`：Karpathy 风格 Codex 规则中文版本。
+- `rules/karpathy-codex.en.md`：Karpathy-style Codex rules in English.
 
 ## 初始化状态
 
